@@ -390,6 +390,7 @@ section {
 
 .section-title p {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
@@ -425,6 +426,9 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+}
+.hero-about{
+  text-align: justify; 
 }
 
 /*--------------------------------------------------------------
