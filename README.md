@@ -1,10 +1,10 @@
 # 🌟 Tamilvendhan's GitHub Portfolio
 
-Welcome to my GitHub Portfolio! Here, you'll find a collection of my projects, coding challenges, and creative experiments in web development, cloud technology, and UI/UX design.
+Welcome to my GitHub Portfolio! Here, you'll find a collection of my projects, coding challenges, and creative experiments in web development, cloud technology.
 
 ## 🔹 About Me
 - **3rd-year B.Tech IT Student** | **Web Developer** | **AWS Enthusiast**
-- Skilled in HTML, CSS, JavaScript, React, AWS, and UI/UX Design.
+- Skilled in HTML, CSS, JavaScript, React, AWS.
 - Passionate about building solutions that combine functionality with design.
 
 ## 🔹 Featured Projects
